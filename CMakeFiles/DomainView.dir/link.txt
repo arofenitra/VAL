@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fpermissive -g -Wl,--dependency-file=CMakeFiles/DomainView.dir/link.d CMakeFiles/DomainView.dir/applications/DomainView/src/main.cpp.o -o bin/DomainView  -Wl,-rpath,"\$ORIGIN" bin/libVAL.so

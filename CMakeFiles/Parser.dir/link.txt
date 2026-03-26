@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fpermissive -g -Wl,--dependency-file=CMakeFiles/Parser.dir/link.d CMakeFiles/Parser.dir/applications/Parser/src/main.cpp.o -o bin/Parser  -Wl,-rpath,"\$ORIGIN" bin/libVAL.so

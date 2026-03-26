@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aro/project/pddl/VAL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fpermissive -g -Wl,--dependency-file=CMakeFiles/PinguPlan.dir/link.d CMakeFiles/PinguPlan.dir/applications/PinguPlan/src/main.cpp.o -o bin/PinguPlan  -Wl,-rpath,"\$ORIGIN" bin/libVAL.so

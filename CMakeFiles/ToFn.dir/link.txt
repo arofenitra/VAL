@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fpermissive -g -Wl,--dependency-file=CMakeFiles/ToFn.dir/link.d CMakeFiles/ToFn.dir/applications/ToFn/src/main.cpp.o -o bin/ToFn  -Wl,-rpath,"\$ORIGIN" bin/libVAL.so
